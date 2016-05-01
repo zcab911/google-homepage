@@ -1,0 +1,54 @@
+/*
+* {
+    border: dashed 1px black;
+}
+*/
+
+.googlelogo {
+    clear: both;
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#searchtext input
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 50%;
+    border: solid 1px #dddddd;
+}
+
+#gbuttons {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#gbuttons input {
+    height: 40px;
+    border: none;
+    color: #404040;
+    font-family: sans-serif;
+    font-size: 110%;
+    width: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.navtop {
+    float: right;
+    vertical-align: middle;
+    height: 50px;
+    clear: both;
+    }
+
+.navtop td {
+    padding: 0.2em;
+}
